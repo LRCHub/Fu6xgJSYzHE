@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "We can make it !",
+  "base_artist": "嵐",
+  "createdAt": "2026-03-22T06:48:14.093304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Can Make It!",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/01_We_Can_Make_It!_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We can make it!",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/02_We_can_make_it!_嵐.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Can Make It",
+      "artist": "Boston",
+      "has_synced": true,
+      "path": "select/03_We_Can_Make_It_Boston.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Can Make It Tonight",
+      "artist": "TOTO",
+      "has_synced": true,
+      "path": "select/04_We_Can_Make_It_Tonight_TOTO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Can Make It",
+      "artist": "Nancy Sinatra",
+      "has_synced": true,
+      "path": "select/05_We_Can_Make_It_Nancy_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Can Make It",
+      "artist": "Code Red",
+      "has_synced": false,
+      "path": "select/06_We_Can_Make_It_Code_Red.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Can Make It",
+      "artist": "Orient Pearl",
+      "has_synced": true,
+      "path": "select/07_We_Can_Make_It_Orient_Pearl.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Can Make It",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/08_We_Can_Make_It_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forever We Can Make It!",
+      "artist": "Thyme",
+      "has_synced": true,
+      "path": "select/09_Forever_We_Can_Make_It!_Thyme.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Can Make It",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/10_We_Can_Make_It_George_Jones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We can make it!",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_We_can_make_it!_嵐.txt"
+    }
+  ]
+}
